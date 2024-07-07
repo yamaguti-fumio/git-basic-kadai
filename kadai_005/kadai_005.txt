@@ -1,0 +1,4 @@
+yamaguchifumio@yamaguchibunyuunoMacBook-Pro github % git log --oneline
+1e0332c (HEAD -> main, origin/main) 日本語訳を追加
+f40163e hello_world.txtを追加
+yamaguchifumio@yamaguchibunyuunoMacBook-Pro github % 
